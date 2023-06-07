@@ -1,2 +1,2 @@
 #!/bin/bash
---all
+ls -l --all
