@@ -1,2 +1,2 @@
 #!/bin/bash
-in -s /holberton-shell/basics /bin/ls/__ls__
+ln -s /holberton-shell/basics /bin/ls/__ls__
