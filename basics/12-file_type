@@ -1,2 +1,2 @@
 #!/bin/bash
-ip ./iamfile
+ip tmp/iamfile
